@@ -19,3 +19,7 @@ void main() {
   p.falar("Olha, se você não me ama, então não me lige e nem fique me fazendo queixa..");
 }
 ```
+
+https://scalacube.com/
+zedamanga1324141@gmail.com
+n%He9?PRDGa.M!?
